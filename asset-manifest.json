@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.29ab9a29.css",
-    "main.js": "/static/js/main.cb5b61fb.js",
+    "main.css": "/static/css/main.4afad98a.css",
+    "main.js": "/static/js/main.43ba17bd.js",
     "static/js/937.18f748c6.chunk.js": "/static/js/937.18f748c6.chunk.js",
     "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
     "static/media/SquareGrotesk-MediumItalic.otf": "/static/media/SquareGrotesk-MediumItalic.089a542897b76d145149.otf",
@@ -10,13 +10,13 @@
     "static/media/LaBelleAurore.woff2": "/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
     "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/index.html",
-    "main.29ab9a29.css.map": "/static/css/main.29ab9a29.css.map",
-    "main.cb5b61fb.js.map": "/static/js/main.cb5b61fb.js.map",
+    "main.4afad98a.css.map": "/static/css/main.4afad98a.css.map",
+    "main.43ba17bd.js.map": "/static/js/main.43ba17bd.js.map",
     "937.18f748c6.chunk.js.map": "/static/js/937.18f748c6.chunk.js.map",
     "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.29ab9a29.css",
-    "static/js/main.cb5b61fb.js"
+    "static/css/main.4afad98a.css",
+    "static/js/main.43ba17bd.js"
   ]
 }
